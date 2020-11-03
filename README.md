@@ -5,6 +5,7 @@
 - 运行博客：cd blog/
 - 安装虚拟环境，推荐使用anaconda管理django虚拟环境
 - pip install -r requirement.txt
+- 迁移数据库
 - python manage.py runserver
 
 - cd blog-web
